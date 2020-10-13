@@ -1,4 +1,4 @@
-# Happy
+# Launch
 
 A simple countdown to the launch of a website.
 
