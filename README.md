@@ -1,4 +1,4 @@
-# Happy
+# Launch
 
 A simple countdown to the launch of a website.
 
@@ -7,7 +7,7 @@ A simple countdown to the launch of a website.
 
 ## Deployment in
 
-https://devgabrieldejesus.github.io/launch/
+https://devgabrieldejesus.github.io/launch
 
 ## Release history
 
