@@ -5,7 +5,7 @@ const minutesElement = document.getElementById('minutes');
 const secondsElement = document.getElementById('seconds');
 
 // final date
-const launch = "31 Dec 2021";
+const launch = "31 Dec 2024";
 
 // countdown
 function countdown() {
